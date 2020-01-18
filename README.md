@@ -1,4 +1,4 @@
-# awesome-performance
+# Awesome web **performance** list
 
 A curated list of awesome web performance stuff
 
