@@ -28,5 +28,11 @@ A curated list of awesome web performance stuff
 
 - [sitespeed.io](https://www.sitespeed.io/) - Sitespeed.io is a set of Open Source tools that makes it easy to monitor and measure the performance of your web site.
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Get the performance benefits of a single-page application without the added complexity of a client-side JavaScript framework.
-- [Quicklink](https://getquick.link/) - Faster subsequent page-loads by prefetching in-viewport links during idle time ([Angular module](https://www.npmjs.com/package/ngx-quicklink))
+- [Quicklink](https://getquick.link/) - Faster subsequent page-loads by prefetching in-viewport links during idle time ([Angular module](https://www.npmjs.com/package/ngx-quicklink)).
 - [Instant.page](https://github.com/instantpage/instant.page) - instant.page uses *just-in-time preloading* — it preloads a page right before a user clicks on it.
+
+## Converter
+
+- [webp](https://developers.google.com/speed/webp) - WebP is a modern **image format** that provides superior **lossless and lossy** compression for images on the web. Using WebP, webmasters and web developers can create smaller, richer images that make the web faster.
+- [FFmpeg](https://www.ffmpeg.org/) - Converting **video** and **audio** has never been so easy.
+- [svgo](https://github.com/svg/svgo) - **SVG O**ptimizer is a Nodejs-based tool for optimizing SVG vector graphics files ([Web GUI](https://jakearchibald.github.io/svgomg/)).
