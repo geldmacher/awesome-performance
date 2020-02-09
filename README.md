@@ -18,6 +18,7 @@ A curated list of awesome web performance stuff
 
 ## Articles
 
+- [Move Fast & Don’t Break Things](https://www.filamentgroup.com/lab/dontbreakthings/) - It’s true, new web technology is exciting, but we already have the tools to build amazing things and deliver them efficiently today.
 - [Smaller HTML Payloads with Service Workers](https://philipwalton.com/articles/smaller-html-payloads-with-service-workers/) - A service worker can request just the bare minimum of data it needs from the server (e.g. an HTML content partial, a Markdown file, JSON data, etc.), and then it can programmatically transform that data into a full HTML document.
 - [Using Native JavaScript Modules in Production Today](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/) - The technique allows you to ship significantly less code to module-supporting browsers, and it’s now supported by most web frameworks and CLIs.
 - [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/) - All you need is type=module on the script element, and the browser will treat the inline or external script as an ECMAScript module.
