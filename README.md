@@ -2,12 +2,6 @@
 
 A curated list of awesome web performance stuff
 
-## Other awesome lists
-
-- https://github.com/davidsonfellipe/awesome-wpo#readme
-- https://github.com/csabapalfi/awesome-web-performance-metrics#readme
-- https://github.com/pajaydev/awesome-web-performance-budget#readme
-
 ## How-To’s
 
 - [Performance Checklist](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/) - Everything you need to know in 2020
@@ -40,3 +34,9 @@ A curated list of awesome web performance stuff
 - [webp](https://developers.google.com/speed/webp) - WebP is a modern **image format** that provides superior **lossless and lossy** compression for images on the web. Using WebP, webmasters and web developers can create smaller, richer images that make the web faster.
 - [FFmpeg](https://www.ffmpeg.org/) - Converting **video** and **audio** has never been so easy.
 - [svgo](https://github.com/svg/svgo) - **SVG O**ptimizer is a Nodejs-based tool for optimizing SVG vector graphics files ([Web GUI](https://jakearchibald.github.io/svgomg/)).
+
+## Other awesome lists
+
+- https://github.com/davidsonfellipe/awesome-wpo#readme
+- https://github.com/csabapalfi/awesome-web-performance-metrics#readme
+- https://github.com/pajaydev/awesome-web-performance-budget#readme
