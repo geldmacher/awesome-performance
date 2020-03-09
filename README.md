@@ -9,6 +9,7 @@ A curated list of awesome web performance stuff
 - [Metrics](https://web.dev/metrics/) - Measure and optimize performance and user experience
 - [Fast load times](https://web.dev/fast/) - Guarantee your site loads quickly to avoid user drop off
 - [Network reliability](https://web.dev/reliable/) - See consistent, reliable performance regardless of network quality
+- [Measuring Performance With Server Timing](https://www.smashingmagazine.com/2018/10/performance-server-timing/) - The Server Timing header provides a discrete and convenient way to communicate backend server performance timings to developer tools in the browser. Adding timing information to your application enables you to monitor back-end and front-end performance all in one place.
 
 ## Articles
 
@@ -18,7 +19,6 @@ A curated list of awesome web performance stuff
 - [Using Native JavaScript Modules in Production Today](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/) - The technique allows you to ship significantly less code to module-supporting browsers, and it’s now supported by most web frameworks and CLIs.
 - [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/) - All you need is type=module on the script element, and the browser will treat the inline or external script as an ECMAScript module.
 - [Loading Polyfills Only When Needed](https://philipwalton.com/articles/loading-polyfills-only-when-needed/) - The solution to this problem is to only load polyfills when they’re needed, but as it turns out, in practice that’s a lot harder than it sounds.
-- [Measuring Performance With Server Timing](https://www.smashingmagazine.com/2018/10/performance-server-timing/) - The Server Timing header provides a discrete and convenient way to communicate backend server performance timings to developer tools in the browser. Adding timing information to your application enables you to monitor back-end and front-end performance all in one place.
 
 ## Implementations
 
