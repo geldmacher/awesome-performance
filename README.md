@@ -32,7 +32,7 @@ A curated list of awesome web performance stuff
 - [Quicklink](https://getquick.link/) - Faster subsequent page-loads by prefetching in-viewport links during idle time ([Angular module](https://www.npmjs.com/package/ngx-quicklink)).
 - [Instant.page](https://github.com/instantpage/instant.page) - instant.page uses *just-in-time preloading* — it preloads a page right before a user clicks on it.
 - ["constant-locals-loader" for Webpack](https://www.npmjs.com/package/constant-locals-loader) - This loader optimizes the output of mini-css-extract-plugin and/or css-loader, entirely removing the potentially large CSS classname mappings normally inlined into your bundle when using CSS Modules.
-- [https://www.npmjs.com/package/speed-measure-webpack-plugin](Speed Measure Plugin for webpack) - This plugin measures your webpack build speed.
+- [Speed Measure Plugin for webpack](https://www.npmjs.com/package/speed-measure-webpack-plugin) - This plugin measures your webpack build speed.
 
 ## Converter
 
