@@ -13,6 +13,8 @@ A curated list of awesome web performance stuff
 
 ## Articles
 
+- [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters) - Performance issues vary. At best, they create small delays that are only briefly annoying to your users. At worst, they make your site completely inaccessible, unresponsive to user input, or both.
+- [WPO stats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
 - [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) - I’m going to show that rendering performance is more important than any of the Lighthouse page load metrics
 - [Move Fast & Don’t Break Things](https://www.filamentgroup.com/lab/dontbreakthings/) - It’s true, new web technology is exciting, but we already have the tools to build amazing things and deliver them efficiently today.
 - [Smaller HTML Payloads with Service Workers](https://philipwalton.com/articles/smaller-html-payloads-with-service-workers/) - A service worker can request just the bare minimum of data it needs from the server (e.g. an HTML content partial, a Markdown file, JSON data, etc.), and then it can programmatically transform that data into a full HTML document.
