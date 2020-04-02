@@ -10,6 +10,7 @@ A curated list of awesome web performance stuff
 - [Fast load times](https://web.dev/fast/) - Guarantee your site loads quickly to avoid user drop off
 - [Network reliability](https://web.dev/reliable/) - See consistent, reliable performance regardless of network quality
 - [Measuring Performance With Server Timing](https://www.smashingmagazine.com/2018/10/performance-server-timing/) - The Server Timing header provides a discrete and convenient way to communicate backend server performance timings to developer tools in the browser. Adding timing information to your application enables you to monitor back-end and front-end performance all in one place.
+- [Your first performance budget with Lighthouse](https://bitsofco.de/your-first-performance-budget-with-lighthouse/) - We can now define a simple performance budget in a JSON file, which will be tested as part of the lighthouse audit!
 
 ## Articles
 
