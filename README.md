@@ -12,6 +12,7 @@ A curated list of awesome web performance stuff
 - [Measuring Performance With Server Timing](https://www.smashingmagazine.com/2018/10/performance-server-timing/) - The Server Timing header provides a discrete and convenient way to communicate backend server performance timings to developer tools in the browser. Adding timing information to your application enables you to monitor back-end and front-end performance all in one place.
 - [Your first performance budget with Lighthouse](https://bitsofco.de/your-first-performance-budget-with-lighthouse/) - We can now define a simple performance budget in a JSON file, which will be tested as part of the lighthouse audit!
 - [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/) - So in this post, I want to demystify some of these concepts, and offer techniques for accurately measuring what’s going on when we render things on the web.
+- [Optimize First Input Delay](https://web.dev/optimize-fid/) - First Input Delay (FID) is a Core Web Vitals metric that captures a user's first impression of a site's interactivity and responsiveness. It measures the time from when a user first interacts with a page to the time when the browser is actually able to respond to that interaction.
 
 ## Articles
 
