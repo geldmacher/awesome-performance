@@ -13,6 +13,8 @@ A curated list of awesome web performance stuff
 - [Your first performance budget with Lighthouse](https://bitsofco.de/your-first-performance-budget-with-lighthouse/) - We can now define a simple performance budget in a JSON file, which will be tested as part of the lighthouse audit!
 - [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/) - So in this post, I want to demystify some of these concepts, and offer techniques for accurately measuring what’s going on when we render things on the web.
 - [Optimize First Input Delay](https://web.dev/optimize-fid/) - First Input Delay (FID) is a Core Web Vitals metric that captures a user's first impression of a site's interactivity and responsiveness. It measures the time from when a user first interacts with a page to the time when the browser is actually able to respond to that interaction.
+- [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/) - Cumulative Layout Shift (CLS) - a Core Web Vitals metric, measures the instability of content by summing shift scores across layout shifts that don't occur within 500ms of user input. It looks at how much visible content shifted in the viewport as well as the distance the elements impacted were shifted.
+- [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/) - Largest Contentful Paint (LCP) is a Core Web Vitals metric and measures when the largest content element in the viewport becomes visible. It can be used to determine when the main content of the page has finished rendering on the screen.
 
 ## Articles
 
