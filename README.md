@@ -18,6 +18,7 @@ A curated list of awesome web performance stuff
 
 ## Articles
 
+- [Milliseconds make millions](https://web.dev/milliseconds-make-millions/) - A 0.1 second improvement in 4 speed metrics can improve progression rates across the full purchase funnel.
 - [Web Vitals: essential metrics for a healthy site](https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html?m=1) - Measuring the quality of user experience has many facets. While some aspects of user experience are site and context specific, there is a common set of signals — "Core Web Vitals" — that is critical to all web experiences.
 - [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters) - Performance issues vary. At best, they create small delays that are only briefly annoying to your users. At worst, they make your site completely inaccessible, unresponsive to user input, or both.
 - [WPO stats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
