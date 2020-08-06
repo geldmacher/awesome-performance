@@ -42,6 +42,7 @@ A curated list of awesome web performance stuff
 - [Instant.page](https://github.com/instantpage/instant.page) - instant.page uses *just-in-time preloading* — it preloads a page right before a user clicks on it.
 - ["constant-locals-loader" for Webpack](https://www.npmjs.com/package/constant-locals-loader) - This loader optimizes the output of mini-css-extract-plugin and/or css-loader, entirely removing the potentially large CSS classname mappings normally inlined into your bundle when using CSS Modules.
 - [Speed Measure Plugin for webpack](https://www.npmjs.com/package/speed-measure-webpack-plugin) - This plugin measures your webpack build speed.
+- [Layout Shift GIF Generator](https://github.com/workeffortwaste/layout-shift-gif) - Visualise the Core Web Vitals metric Cumulative Layout Shift (CLS) with a simple GIF.
 
 ## Converter
 
