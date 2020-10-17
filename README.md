@@ -19,6 +19,7 @@ A curated list of awesome web performance stuff
 
 ## Articles
 
+- [How focusing on web performance improved Tokopedia's click-through rate by 35%](https://web.dev/tokopedia/) - Tokopedia is one of the largest e-commerce companies in Indonesia. With 2.7M+ nationwide merchant networks, 18M+ product listings, and 50M+ monthly visitors, the web team knew that investment in web performance was essential. By building a performance-first culture, they achieved a 35% increase in click-through rates (CTR) and an 8% increase in conversions (CVR).
 - [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/) - Optimizing interactivity of product details pages for a 90% reduction in Max Potential FID in Lighthouse and a 9% improvement in FID in Chrome User Experience Report.
 - [Milliseconds make millions](https://web.dev/milliseconds-make-millions/) - A 0.1 second improvement in 4 speed metrics can improve progression rates across the full purchase funnel.
 - [Web Vitals: essential metrics for a healthy site](https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html?m=1) - Measuring the quality of user experience has many facets. While some aspects of user experience are site and context specific, there is a common set of signals — "Core Web Vitals" — that is critical to all web experiences.
