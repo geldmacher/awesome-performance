@@ -46,6 +46,7 @@ A curated list of awesome web performance stuff
 - ["constant-locals-loader" for Webpack](https://www.npmjs.com/package/constant-locals-loader) - This loader optimizes the output of mini-css-extract-plugin and/or css-loader, entirely removing the potentially large CSS classname mappings normally inlined into your bundle when using CSS Modules.
 - [Speed Measure Plugin for webpack](https://www.npmjs.com/package/speed-measure-webpack-plugin) - This plugin measures your webpack build speed.
 - [Layout Shift GIF Generator](https://github.com/workeffortwaste/layout-shift-gif) - Visualise the Core Web Vitals metric Cumulative Layout Shift (CLS) with a simple GIF.
+- [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date Multi-Language JSON Performance Benchmark
 
 ## Converter
 
