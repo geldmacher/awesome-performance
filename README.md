@@ -4,6 +4,7 @@ A curated list of awesome web performance stuff
 
 ## How-To’s
 
+- [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/) - This guide has recipes for automating Web Performance measurement with Puppeteer
 - [Performance Checklist](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/) - Everything you need to know in 2020
 - [perf.rocks](https://perf.rocks/) - Find resources that help you build lightning fast websites
 - [Metrics](https://web.dev/metrics/) - Measure and optimize performance and user experience
