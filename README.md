@@ -4,6 +4,7 @@ A curated list of awesome web performance stuff
 
 ## How-To’s
 
+- [Measure and debug performance with Google Analytics 4 and BigQuery](https://web.dev/vitals-ga4/) - Learn how to send Web Vitals data to Google Analytics 4 properties and export the data for analysis in BigQuery and Data Studio.
 - [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse/) - Finding opportunities to improve user-experience with Chrome's web tooling
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/) - This guide has recipes for automating Web Performance measurement with Puppeteer
 - [Performance Checklist](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/) - Everything you need to know in 2020
