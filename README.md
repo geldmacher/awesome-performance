@@ -23,6 +23,7 @@ A curated list of awesome web performance stuff
 
 ## Articles
 
+- [Picture perfect images with the modern img element](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/) - The humble <img> element has gained some superpowers since it was created. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can help improve user-experience and the Core Web Vitals. 
 - [How focusing on web performance improved Tokopedia's click-through rate by 35%](https://web.dev/tokopedia/) - Tokopedia is one of the largest e-commerce companies in Indonesia. With 2.7M+ nationwide merchant networks, 18M+ product listings, and 50M+ monthly visitors, the web team knew that investment in web performance was essential. By building a performance-first culture, they achieved a 35% increase in click-through rates (CTR) and an 8% increase in conversions (CVR).
 - [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/) - Optimizing interactivity of product details pages for a 90% reduction in Max Potential FID in Lighthouse and a 9% improvement in FID in Chrome User Experience Report.
 - [Milliseconds make millions](https://web.dev/milliseconds-make-millions/) - A 0.1 second improvement in 4 speed metrics can improve progression rates across the full purchase funnel.
