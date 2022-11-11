@@ -46,6 +46,9 @@ A curated list of awesome web performance stuff
 
 ## Tools
 
+- [web-vitals library](https://github.com/GoogleChrome/web-vitals/) - The web-vitals library is a tiny (~1.5K, brotli'd), modular library for measuring all the Web Vitals metrics on real users, in a way that accurately matches how they're measured by Chrome and reported to other Google tools (e.g. Chrome User Experience Report, Page Speed Insights, Search Console's Speed Report).
+- [Web Vitals report](https://web-vitals-report.web.app/) - This tool can be used to create a Web Vitals report for any site that uses the
+web-vitals JavaScript library to send data to Google Analytics.
 - [sitespeed.io](https://www.sitespeed.io/) - Sitespeed.io is a set of Open Source tools that makes it easy to monitor and measure the performance of your web site.
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Get the performance benefits of a single-page application without the added complexity of a client-side JavaScript framework.
 - [Quicklink](https://getquick.link/) - Faster subsequent page-loads by prefetching in-viewport links during idle time ([Angular module](https://www.npmjs.com/package/ngx-quicklink)).
