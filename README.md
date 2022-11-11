@@ -4,6 +4,7 @@ A curated list of awesome web performance stuff
 
 ## How-To’s
 
+- [Track Core Web Vitals In GA4 With Google Tag Manager](https://www.simoahava.com/analytics/track-core-web-vitals-in-ga4-with-google-tag-manager/)
 - [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/) - Priority hints indicate the relative importance of resources to the browser. They can enable optimal loading and improve Core Web Vitals.
 - [Measure and debug performance with Google Analytics 4 and BigQuery](https://web.dev/vitals-ga4/) - Learn how to send Web Vitals data to Google Analytics 4 properties and export the data for analysis in BigQuery and Data Studio.
 - [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse/) - Finding opportunities to improve user-experience with Chrome's web tooling
